@@ -3,7 +3,7 @@
 This repository contains coursework notebooks and supporting files for deep learning experiments.
 
 #### Contents
-- `Deep_Learning_homework_1.ipynb`
+- `homework_1.ipynb`
 - `homework_2.ipynb`
 - `requirements.txt`
 
